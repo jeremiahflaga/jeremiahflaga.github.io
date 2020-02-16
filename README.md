@@ -1,4 +1,12 @@
-# Codinfox-Lanyon
+
+
+#  (February 16, 2020) Updated to a simple site which uses Bootstrap 4
+
+Followed Daniel Sieger's tutorial: [Creating a Jekyll Bootstrap Template](https://www.danielsieger.com/blog/2019/01/12/creating-jekyll-bootstrap-template.html).
+
+---
+
+#  (August 6, 2017) Codinfox-Lanyon
 
 This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
 

@@ -75,8 +75,8 @@ hero:
   image: /public/img/we_will_be_giants_by_yalestewart.jpg
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
-# Puglins
-mathjax: true # whether support mathjax
+# Plugins
+mathjax: false # whether support mathjax
 google_analytics_token: 'UA-93514486-1' # leave blank if you don't want google analytics
 disqus_short_name: 'jeremiahflaga' # leave blank if you don't want disqus
 
