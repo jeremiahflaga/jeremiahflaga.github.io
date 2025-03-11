@@ -1,0 +1,173 @@
+HTML colon (:)
+&#58;
+
+
+HTML question mark (?)
+&#63;
+
+HTML for apostrophe
+&#39;
+
+HTML for double quote
+&#34;
+&quot;
+
+
+HTML for n and N with tilde
+&ntilde;
+&Ntilde;
+
+
+Long dash
+— 
+---
+&mdash;
+
+
+In Markdown, how do I start a line with a number without creating a list?
+1986\. What a great season.
+
+
+Footnotes
+<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>One example of something...</small>
+
+Footnotes 2
+<sup id="footnote-indicator">[[1]](#footnote)</sup>
+<sup id="footnote">[1]</sup> 
+<small>
+One example of something...
+</small>
+[&#8617;](#footnote-indicator)
+
+
+
+RSS icon is from http://www.flaticon.com/free-icon/rss_179336
+
+
+My bookdepository affiliate id
+?a_aid=jflaga
+
+
+My greghowlett affiliate id
+https://greghowlett.com/?affid=5114
+
+
+HTML for images (for custom width and height)
+<img src="/images/2017/computer-science-distilled.png" width="48">
+<img src="/images/2017/computer-science-distilled.png" height="250">
+<img src="/images/2017/computer-science-distilled.png" height="200">
+<img src="/images/2017/computer-science-distilled.png" width="48" title="title" alt="title">
+<img src="/images/2017/computer-science-distilled.png" height="250" title="title" alt="title">
+
+
+File tree stucture (from https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html)
+.
+├── db.sqlite3
+├── functional_tests.py
+├── lists
+│   ├── admin.py
+│   ├── apps.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── manage.py
+└── superlists
+    ├── __init__.py
+    ├── __pycache__
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+
+
+Can I define a class name on paragraph using Markdown? (https://stackoverflow.com/a/49697482)
+(https://kramdown.gettalong.org/syntax.html#attribute-list-definitions)
+If your flavour of markdown is kramdown, then you can set css class like this:
+
+{:.nameofclass .anotherClass}
+paragraph is here
+
+
+<div> with markdown
+In many (most?) varietals of Markdown, you can put <div markdown="1"> on the element and it will allow Markdown inside of it.
+(https://css-tricks.com/little-stuff-markdown-always-forget-google/#article-header-id-0)
+
+<div class="special-class" markdown="1">
+    1. All
+    1. Fixed 
+    1. Up
+</div>
+
+
+Adding ids to headers:
+(https://css-tricks.com/little-stuff-markdown-always-forget-google/#article-header-id-3)
+### Custom IDs {#custom-id}
+
+
+When you want to highlight a message:
+Use the class "message"
+<div class="message message-compressed float-right">
+
+When you want to highligh a quoted text in a conversation like quotings:
+<span class="quoted-text">
+examples:
+/2017/04/27/dr-jason-lisle-facebook-post-on-induction/
+/2019/06/29/steven-van-deursen-on-async-await/
+
+
+
+---
+List of Jemojis and their images
+https://phatblat.com/2016/01/03/jemoji.html
+
+
+
+---
+Making Your YouTube Embeds Mobile Responsive with Bootstrap
+https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="..." allowfullscreen></iframe>
+</div>
+
+The standard aspect ratio for YouTube on a computer is 16:9. - from https://support.google.com/youtube/answer/6375112
+
+<!-- 21:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-21by9">
+
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+
+<!-- 1:1 aspect ratio -->
+<div class="embed-responsive embed-responsive-1by1">
+
+
+
+---
+Adding line numbers
+https://www.richwerden.com/2017/line-numbers-in-jekyll-code.html
+
+{% highlight javascript linenos %}
+    function some(code) { /*goes here*/ }
+    let x = 21;
+{% endhighlight %}
+
+
+
+------------
+dateLastUpdated: 2021-05-23 06:00:00 AM UTC
+
+<!-- Updated May 23, 2021 02:00:00 PM Philippine Time - removed name -->
+
+
+
+
+------------
+{% comment %}
+...
+{% endcomment %}

@@ -1,0 +1,55 @@
+# Site Info
+title: Jeremiah Flaga
+title2:  Jeremiah Flaga
+tagline: My thoughts and experiences on programming, life, atbp.
+description: 'My thoughts and experiences on programming, life, atbp.'
+author: Jeremiah Flaga
+baseurl: ""
+url:
+logo: '/images/jboy-papyrus-blue.png'
+email: flaga.jeremiah@gmail.com
+background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
+
+# Site configurations
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji # GitHub-flavored Emoji plugin for Jekyll
+
+markdown: kramdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Pagination
+paginate: 15
+paginate_path: '/blog/page:num'
+permalink: /:year/:month/:day/:title/
+
+timezone: UTC
+
+# Social Profiles
+twitter_username:   jboyflaga
+github_username:    jeremiahflaga
+facebook_username:  jboyflaga
+instagram_username:  
+linkedin_username:  jeremiahflaga
+
+google_analytics:   UA-93514486-1 # out your google-analytics code
+disqus_short_name: 'jeremiahflaga' # leave blank if you don't want disqus
+
+
+# Exclude these files from your production _site
+exclude:
+  - README.md
+  - resume/sections
+  - resume/anti-resume/sections
+  - resume/2021/sections
+  - resume/2021/anti-resume/sections
+  - resume/
