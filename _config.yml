@@ -36,10 +36,11 @@ timezone: UTC
 
 # Social Profiles
 twitter_username:   jboyflaga
-github_username:    jeremiahflaga
+github_username:    jflaga
 facebook_username:  jboyflaga
 instagram_username:  
 linkedin_username:  jeremiahflaga
+stackoverflow_username: 1451757/jflaga
 
 google_analytics:   UA-93514486-1 # out your google-analytics code
 disqus_short_name: 'jeremiahflaga' # leave blank if you don't want disqus
