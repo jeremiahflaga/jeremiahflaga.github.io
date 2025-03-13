@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 background: '/images/background/monika-sojcakova-S4sEHI2B0dU-unsplash.jpg'
+sidebar_content: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1s3Rp82gIrYVnVSrSZQq71?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
 <!-- archive page code from http://chris.house/blog/building-a-simple-archive-page-with-jekyll -->

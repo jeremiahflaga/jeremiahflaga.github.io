@@ -7,7 +7,7 @@ dateLastUpdated:
 categories: []
 tags: []
 published: true
-sidebar_content: <small><center><em>"Dare You to Move" by Switchfoot</em></center></small> <iframe width="100%" src="https://www.youtube.com/embed/iOTcr9wKC-o?si=eJ5zIoBndzGe30-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+sidebar_content: <small><center><em>"Dare You to Move (Acoustic)" by Switchfoot</em></center></small> <iframe width="100%" src="https://www.youtube.com/embed/-V3_B1TjPeI?si=yO-aT75OWKKk5tUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 author_name: Jboy
 ---
 

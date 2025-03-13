@@ -12,7 +12,7 @@ published: false
 </div>
 
 <div class="sidebar">
-    <img src="/images/Jboy2017-Real-2(200x200).jpg" width="70px" />
+    <img src="/images/logo.png" width="70px" />
 </div>
 -->
 

@@ -2,7 +2,7 @@
 layout: page
 title: 'Things to check when updating theme'
 date: 2020-06-27 10:30:00 AM UTC
-background: '/images/Jboy2017-Real-2(200x200).jpg'
+background: '/images/logo.png'
 ---
 
 <!-- first: June 27, 2020 06:30:00 PM Philippine Time -->
