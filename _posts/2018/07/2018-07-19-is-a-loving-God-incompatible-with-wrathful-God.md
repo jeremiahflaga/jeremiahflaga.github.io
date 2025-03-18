@@ -2,15 +2,25 @@
 layout: post
 title: 'Is a loving God incompatible with a wrathful God?'
 categories: [Thoughts]
-tags: [Rodrigo R. Duterte, God, Hell]
+tags: [Rodrigo Roa Duterte, God, Hell, Heaven]
 date: 2018-07-19 07:00:00 PM UTC
+dateLastUpdated: 2025-03-18 12:00:00 PM UTC
+sidebar_content: <div class="mt-5"><small><center><em>"He Will Hold Me Fast " by Keith & Kristyn Getty</em></center></small> <iframe width="100%" src="https://www.youtube.com/embed/936BapRFHaQ?si=cq2tokKfq9P6Mldt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="mt-5"><small><center><em>"Christianity&#58; Opium or Truth? Answering Thoughtful Objections to the Christian Faith" by David Gooding and John Lennox</em></center></small><a href="https://www.myrtlefieldhouse.com/online-books/christianity-opium-or-truth"><img src="https://images.squarespace-cdn.com/content/v1/60799ad556a1540f55f0ae33/1700049372410-PH8ZH0BCPS1HQUHPL234/COOT-Cover-Mockup.png" style="box-shadow&#58; none;"></a></div>
 ---
 
 <!-- July 20, 2018 03:00:00 AM Philippine Time -->
 
 <!-- 
-<small>_(NOTE: Updated Aug 4, 2018 so it will not sound angry or harsh :smile:)_</small>
+<small>_(NOTE: Updated Aug 4, 2018 sSo it will not sound angry or harsh :smile:)_</small>
  -->
+
+---
+
+**Update, March 18, 2025:**
+
+There are various interpretations of hell within the Christian community. If you are interested, you can read ["The Four views on Hell"](https://archive.org/details/fourviewsonhell0000unse).
+
+---
 
 > People ask, "What kind of a loving God could be filled with wrath.?"
 <br />
@@ -20,7 +30,7 @@ But any loving person is often filled with wrath.
 
 <!--more-->
 
-As you might have already guessed, this is about the recent ruckus on President Rodrigo R. Duterte's comments on _"a loving God"_ and _"hell"_.
+As you might have already guessed, this is about the recent ruckus on President Rodrigo Roa Duterte's comments on _"a loving God"_ and _"hell"_.
 
 Now, first of all, I'm a supporter of President Duterte :smile:.
 
@@ -61,11 +71,17 @@ Of course the President is free to believe in whatever god he wants to believe i
 
 A loving and good God must hate evil, just like a loving president would hate evil. The President himself says that he hates drugs (by that he means those drugs which destroys the mind), because these things destroy his people, and he is doing something to stop those who perpetuate these evil deeds. The same is true with a loving God, I believe.
 
-I do not understand why God does not bring justice to all people in this life, or why he _permits_ evil to even triumph sometimes, but I believe, through the [testimony of Scriptures](https://www.gotquestions.org/trust-the-Bible.html), that he will bring justice to everyone in the life to come.
+I do not understand why God does not bring justice to all people in this life, or why he _permits_ evil to even triumph sometimes, but I believe, through the [testimony of Scriptures](https://www.gotquestions.org/trust-the-Bible.html), that he will bring justice to everyone in the world to come.
 
 Now, the President also said that he does not believe in heaven, so we cannot accuse him by saying, "Does he want Hitler to go to heaven also?". We cannot say that.
 
-Now, one is free to believe or not to believe in heaven or in hell. But to say that a loving God is incompatible with a God full of wrath... that is incorrect already, and we have to correct it. :smile:
+Now, one is free to believe or not in heaven or in hell. But to say that a loving God is incompatible with a God full of wrath... that is incorrect already, and we have to correct it. :smile:
+
+<div class="message message-compressed float-right" markdown="1">
+
+Please note that there are various interpretations of hell within the Christian community. If you are interested, you can read ["The Four views on Hell"](https://archive.org/details/fourviewsonhell0000unse).
+
+</div>
 
 And if a loving God can also be a God full of wrath, then those unrepentant people, [even unrepentant priests](https://www.youtube.com/watch?v=HQlDs6-woVM), even unrepentant church leaders, even unrepentant _me_ <small>(I hope God will give me grace and mercy until death.)</small>, God will send them to hell. A God who loves his people will send those who want to destroy his people to hell. 
 
