@@ -25,13 +25,13 @@ The author said that what's recorded in Acts (Acts chapter 2 to be specific) was
 
 Here's an image of the page where that claim is stated:
 
-![Accidental Pharisees, Acts, presecription, description, they expected Jesus to return any day](/images/2023/2023-11-09-accidental-pharisees-description-acts-prescription-Jesus-return.jpg)
+![Accidental Pharisees, Acts, prescription, description, they expected Jesus to return any day](/images/2023/2023-11-09-accidental-pharisees-description-acts-prescription-Jesus-return.jpg)
 
 The author said that the early Christians "expected Jesus to return any day", and that's the reason why they stayed in Jerusalem, and they sold properties to distribute to those in need. (The author of the book also speculated that that might have contributed to the poverty of the church in Jerusalem during Paul's time. The author also suggested that what's recorded in Acts chapter 2 are just _descriptions_ of the early church and not _prescriptions_ for us to emulate.)
 
-But back to my main point: I did not know that the first disciples of Jesus expected to see his return. Maybe I have read about that in the past and have forgotten about it. But that claim lingered in my mind while finishing the book  --- _Why does the author make that claim?_ --- I did not bother to google for it because when I was reading that passage it was already late in the evening, and I was a bit sleepy already, but I wanted to finish reading the book.
+But back to my main point: I did not know that the first disciples of Jesus expected to see his return. Maybe I have read about that in the past and have forgotten about it. But that claim lingered in my mind while finishing the book  --- _Why does the author make that claim?_ --- I did not bother to google for it because when I was reading that passage it was already late in the evening, and I was a bit sleepy already, and I wanted to finish reading the book.
 
-Then today, while having my lunch, that thought came back to me. And then I also remembered what I had read in John chapter 21 --- that in the early chruch, there was a rumor that John will not die until Jesus' return (read verses 18-23; try reading it in the Easy to Read Version<sup>*</sup>). This is one evidence that the early Christians really expected Jesus to return during their lifetime!
+Then today, while having my lunch, that thought came back to me. And then I also remembered what I had read in John chapter 21 --- that in the early church, there was a rumor that John will not die until Jesus' return (read verses 18-23; try reading it in the Easy to Read Version<sup>*</sup>). This is one evidence that the early Christians really expected Jesus to return during their lifetime!
 
 Then there are Bible passages saying _"the Lord is not slack concerning his promise..."_. That might have been words of comfort intended for those who expected Jesus to return during their lifetime, but whose expectations were not met.
 

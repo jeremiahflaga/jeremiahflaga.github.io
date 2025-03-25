@@ -4,11 +4,10 @@ title: "How to run Scalection project from Softaware, Part 1: Initial Solution"
 date: 2025-01-05 12:00:00 AM UTC
 # date_last_modified: 
 dateLastUpdated:
-categories: []
+category: Programming
 tags: []
 published: true
 sidebar_content: <small><center><em>"Dare You to Move" by Switchfoot</em></center></small> <iframe width="100%" src="https://www.youtube.com/embed/iOTcr9wKC-o?si=eJ5zIoBndzGe30-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-author_name: Jboy
 ---
 
 I had done some readings on System Design and wanted to find a related sample project written in ASP.NET Core which I can run locally.

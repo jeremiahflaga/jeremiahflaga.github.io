@@ -14,11 +14,12 @@ tags:
   - .NET
   - C#
 published: true
+pinned: true
 ---
 
-I've had bad experiences with AutoMapper in at least two codebases I was involved in.
+I had bad experiences with AutoMapper in at least two codebases I was involved in.
 
-Because of those experiences, I promised myself never to use AutoMapper again. And if I will be involved in a codebase which uses it, I might suggest to slowly remove AutoMapper from the codebase and use manual mapping instead.
+Because of those experiences, I promised myself never to use AutoMapper again, and that if I will be involved in a codebase which uses it, I might suggest to slowly remove AutoMapper from the codebase and use manual mapping instead.
 
 That was the case until I read the free ebook ["Implementing Domain Driven Design: A practical guide for implementing DDD with ABP Framework"](https://abp.io/books/implementing-domain-driven-design) by Halil İbrahim Kalkan, the creator of [ABP Framework](https://abp.io/).
 
@@ -31,7 +32,7 @@ treated differently.
 
 I've known about using different or separate `ViewModels` as parameter for each action method in ASP.NET MVC Controllers to [prevent overposting attacks](https://www.hanselman.com/blog/aspnet-overpostingmass-assignment-model-binding-security), but I can't remember of having read or heard of anything which classifies ViewModels or DTOs as input vs output. 
 
-I don't know whether Halil got this idea from others, or whether he came up with this by himself from his own experiences, but this differentation betweeen input and output DTOs is a very good idea.
+I don't know whether Halil got this idea from others, or whether he came up with this by himself based on his own experiences, but this differentation betweeen input DTOs and output DTOs is a very good idea.
 
 In the book, he gave some best practices for input and output DTOs.
 
@@ -51,7 +52,7 @@ you will come to the same problem. **Code duplication is a better practice than 
 each other. While this can be useful in some rare cases, most of
 the time it brings you to the same point.
 
-And regarding the use of AutoMapper or any automapping tool, he set forward a rule on page 80 of the book. He says
+And regarding the use of AutoMapper or any automapping tool, he sets forward a rule on page 80 of the book. He says
 
 > **Use** auto object mapping only for Entity to output DTO mappings.
 >
