@@ -12,15 +12,6 @@ published: true
 ---
 
 
-{: .alert .alert-warning }
-Almost all of the contents of this site are either fully satire or borderline satire. Everything here is corrupted with satire. 
-<br />
-Even the introduction below is partially soaked in satire.
-<br />
-Please do your own research before believing anything contained in this site.
-
----
-
 > "It is the test of a good religion whether you can joke about it." 
 > --- G.K. Chesterton
 
@@ -28,6 +19,14 @@ Please do your own research before believing anything contained in this site.
 > --- Jordan Peterson
 
 ---
+
+{: .alert .alert-warning }
+Almost all of the contents of this section of the site are either fully satire or borderline satire -- everything is corrupted with satire. 
+<br />
+Even the introduction below is partially soaked in satire.
+<br />
+Please do your own research before believing anything contained in this section of the site.
+
 
 
 {: #introduction :}
@@ -82,8 +81,12 @@ Footnotes:
 {: #blog-posts :}
 ## Blog Posts
 
-[Why do the modern Bibles mock the king?](/2024/08/04/wycliffe-only-movement-satirical)
+[Why do the modern Bibles mock the king?](/2024/08/20/why-do-modern-bibles-mock-the-king)
+
 [Why do the modern Bibles mock pastors?](/2024/09/07/why-do-modern-bibles-mock-pastors)
+
 [Apollo Quiboloy has decided to change his title from pastor to shepherd](/2024/09/21/apollo-quiboloy-decided-to-change-his-title-from-pastor-to-shepherd)
+
 [Everyone should be a gardener, says Adam](/2024/10/05/everyone-should-be-a-gardener-says-adam)
+
 [Everyone should be a mother, says Eve](/2024/11/02/everyone-should-be-a-mother-says-eve)

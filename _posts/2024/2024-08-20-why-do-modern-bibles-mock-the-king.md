@@ -16,6 +16,7 @@ tags:
 published: true
 ---
 
+{: .alert .alert-warning }
 For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/2024/08/20/why-do-modern-bibles-mock-the-king)
 
 ---
