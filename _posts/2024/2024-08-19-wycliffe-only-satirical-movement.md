@@ -90,3 +90,5 @@ Footnotes:
 [Everyone should be a gardener, says Adam](/2024/10/05/everyone-should-be-a-gardener-says-adam)
 
 [Everyone should be a mother, says Eve](/2024/11/02/everyone-should-be-a-mother-says-eve)
+
+[Everyone should go on thy breast and eat the earth, says the serpent](/2025/03/29/everyone-should-go-on-thy-breast-and-eat-the-earth-says-the-serpent)
