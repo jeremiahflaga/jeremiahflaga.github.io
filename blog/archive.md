@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Archive
-background: '/images/background/monika-sojcakova-S4sEHI2B0dU-unsplash.jpg'
+# background: '/images/background/monika-sojcakova-S4sEHI2B0dU-unsplash.jpg'
+background: '/images/background/aaron-burden-xG8IQMqMITM-unsplash.jpg'
 sidebar_content: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1s3Rp82gIrYVnVSrSZQq71?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
@@ -30,12 +31,19 @@ sidebar_content: <iframe style="border-radius:12px" src="https://open.spotify.co
                     {% assign myDate = currentDate %}
                 {% endif %}
                 <li>
-                    <small class="post-date">{{ post.date | date_to_string }} - </small>
+                    <small class="post-date">{{ post.date | date_to_string }} » </small>
                     <span>
                         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
                             {{ post.title }}
                         </a>
                     </span>
+                    <small class="badge badge-info">
+                        {% assign category = post.categories[0] %}
+                         <a class="post-tag text-light" 
+                            href="{{ site.baseurl }}/blog/categories#{{ category }}">
+                            {{ category }}
+                        </a>
+                    </small>
                 </li>
                 {% if forloop.last %}</ul>{% endif %}
             {% endunless %}
