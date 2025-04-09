@@ -13,7 +13,7 @@ tags:
   - Tyndale Only
   - ESV Only
   - Satire
-published: true
+published: false
 ---
 
 <!-- 2023-08-31 10:00 PM PHT: started -->

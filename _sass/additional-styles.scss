@@ -131,3 +131,12 @@ div.youtube
 }
 
 
+div.wycliffe-only-conversation>p:nth-of-type(odd) {
+    border-left: 1px dashed red;
+    padding-left: 5px;
+}
+
+div.wycliffe-only-conversation>p:nth-of-type(even) {
+    border-left: 1px dashed green;
+    padding-left: 5px;
+}

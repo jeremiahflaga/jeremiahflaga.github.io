@@ -9,6 +9,7 @@ categories:
 tags: 
   - Satire
 published: true
+permalink: /wycliffe-only-satirical-movement
 ---
 
 

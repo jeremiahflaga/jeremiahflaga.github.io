@@ -17,9 +17,11 @@ published: true
 ---
 
 {: .alert .alert-warning }
-For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/2024/08/04/wycliffe-only-movement-satirical)
+For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/wycliffe-only-satirical-movement)
 
 ---
+
+<div class="wycliffe-only-conversation" markdown="1">
 
 A man has been telling Eve that if she does not serve God, bad things will happen to her.
 
@@ -31,8 +33,8 @@ A man has been telling Eve that if she does not serve God, bad things will happe
 
 "I mean doing things according to God's desires, which are the same as my desires", the man corrected himself.
 
-"What does God desire.. What did God tell me?", Eve tried to remember. "Ahh, it was to bear children — to be a mother. Everyone should be a mother!
-
+"What does God desire.. What did God tell me?", Eve was trying to remember. "Ahh, it was to bear children — to be a mother. Everyone should be a mother!
+<br />
 "Everyone should be a mother!", she shouted in excitement.
 
 "Uh, wait.. No!", the man shouted back. "That is not what I desire, therefore that is not what God desires."
@@ -44,9 +46,9 @@ A man has been telling Eve that if she does not serve God, bad things will happe
 > (Wycliffe Bible 1382-1395)
 
 
-"But please note that recent versions of the Bible have actually weaken, or make blurry, the meaning of that verse, by replacing the phrase _'thou shalt be under (the) power of thine husband'_ with _'thy desire shall be to thy husband'_. These modern versions have been influenced by feminist ideas."
+"Yes. But please note that recent versions of the Bible have actually weaken, or make blurry, the meaning of that verse, by replacing the phrase _'thou shalt be under (the) power of thine husband'_ with _'thy desire shall be to thy husband'_. These modern versions have been influenced by feminist ideas."
 
-"That phrase has nothing to do with being a mother. Only the first section of that passage is about mothers."
+"That phrase has nothing to do with being a mother. Only the first section of that passage is relevant to our current topic, which is about mothers."
 
 "But that phrase is also in the bible."
 
@@ -54,9 +56,9 @@ A man has been telling Eve that if she does not serve God, bad things will happe
 
 
 
-Okay.. But How can I be a mother when I'm a man?
+Okay.. But how can I be a mother when I'm a man?
 
-That's easy. Let's support the propaganda which says men can get pregnant?
+That's easy. Let's support the idea which says men can get pregnant?
 
 I don't understand.
 
@@ -77,8 +79,10 @@ Sure.. People are so easily fooled these days because everyone believes everythi
 Is the claim "people believe everything on the internet" even true?
 
 Eve ignored him and started concocting a plan to establish a new religion which she can use to validate her premises and truth claims. 
-
+<br />
 "I will migrate to South Korea, the seoul of the earth, and change my name into Zahng Gil-jah. I will declare myself as mother god, and put it on the internet".
+
+</div>
 
 "Everyone should be a mother."
 

@@ -17,10 +17,11 @@ published: true
 ---
 
 {: .alert .alert-warning }
-For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/2024/08/04/wycliffe-only-movement-satirical)
+For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/wycliffe-only-satirical-movement)
 
 ---
 
+<div class="wycliffe-only-conversation" markdown="1">
 
 A man has been telling Adam that if he does not serve God, bad things will happen to him.
 
@@ -33,7 +34,7 @@ A man has been telling Adam that if he does not serve God, bad things will happe
 "I mean doing things according to God's desires, which are the same as my desires", the man corrected himself.
 
 "What does God desire.. What did God tell me?", Adam thought to himself. "Ahh, it was to work in the garden and care for it --- God wants me to be a gardener. Everyone should be a gardener!
-
+<br />
 "Everyone should be a gardener!", he shouted in excitement.
 
 "Uh, wait.. No!", the man shouted back. "That is not what I desire, therefore that is not what God desires."
@@ -82,8 +83,10 @@ Then God said to the man,
 
 
 "Aha.. That verse is after the Fall of Man.. So I stand by my original statement: You are not serving God if you are not a gardener!
-
+<br />
 "That is just common sense, right: Gardeners produce food; we need food. Also, if we are all gardeners, all of us will always be reminded that from dust we are and to dust we shall return.
+
+</div>
 
 "Everyone should be a gardener!"
 

@@ -17,9 +17,11 @@ published: true
 ---
 
 {: .alert .alert-warning }
-For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/2024/08/04/wycliffe-only-movement-satirical)
+For context, please see the introduction for this series: ["Wycliffe-Only Movement: a satirical movement"](/wycliffe-only-satirical-movement)
 
 ---
+
+<div class="wycliffe-only-conversation" markdown="1">
 
 A man has been telling the serpent that if he does not do what God wants bad things will happen to him.
 
@@ -72,7 +74,7 @@ And it should be _'go on thy belly'_, not _'crawl'_. _'Go'_ is fast; _'crawl'_ i
 
 You are saying that that modern version must have been corrupted?
 
-Yes. Breast is located on the upper part of the human torso, while belly is on the lower part. And the word 'belly' gives people this idea that I like to devour things. Bad for me. I like the word 'breast' because it gives people the idea that I can also have feelings for them, dark feelings they might be, but at least I have feelings. 
+Yes. _'Breast'_ is located on the upper part of the human torso, while _'belly'_ is on the lower part. And the word _'belly'_ gives people this idea that I like to devour things. Bad for me. I like the word _'breast'_ because it gives people the idea that I can also have feelings for them, dark feelings they might be, but at least I have feelings. 
 
 Hmmm...
 
@@ -82,12 +84,16 @@ _"Dust they are, and to dust they shall return"_? Does the Bible say that? Or is
 
 It's not a corruption. It has the same meaning as the original.
 
-Hmmm... Okay.
+Hmmm...
 
-Again, it's _'earth'_ I should eat, not _'dust'_. And that's why God created the earth, so we can eat it. It's huge. It will take years before we can be able to consume all of it.
+Again, it's _'earth'_ I should eat, not _'dust'_. And that's why God created the earth, so we can eat it. The earth is huge. It will take years before we can be able to consume all of it.
 
 We? Where does it say that I should eat the earth too?
 
 It is written in the Bible. And whatever is written in the Bible we all must do, or else we will all be doomed.
 
+</div>
+
 "Everyone should go on thy breast and eat the earth."
+
+[/satire]
