@@ -7,7 +7,7 @@ dateLastUpdated:
 category: Programming
 tags: []
 published: true
-sidebar_content: <small><center><em>"Dare You to Move" by Switchfoot</em></center></small> <iframe width="100%" src="https://www.youtube.com/embed/iOTcr9wKC-o?si=eJ5zIoBndzGe30-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+sidebar_content: <small><small><center><em>"Dare You to Move" by Switchfoot</em></center></small></small> <iframe width="100%" src="https://www.youtube.com/embed/iOTcr9wKC-o?si=eJ5zIoBndzGe30-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 I had done some readings on System Design and wanted to find a related sample project written in ASP.NET Core which I can run locally.

@@ -7,7 +7,7 @@ dateLastUpdated:
 category: Programming
 tags: []
 published: true
-sidebar_content: <small><center><em>"Dare You to Move (Acoustic)" by Switchfoot</em></center></small> <iframe width="100%" src="https://www.youtube.com/embed/-V3_B1TjPeI?si=yO-aT75OWKKk5tUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+sidebar_content: <small><small><center><em>"Dare You to Move (Acoustic)" by Switchfoot</em></center></small></small> <iframe width="100%" src="https://www.youtube.com/embed/-V3_B1TjPeI?si=yO-aT75OWKKk5tUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 I've encountered some bugs at work which motivated me to look for deeper knowledge regarding backend stuffs. That led me to Hussein Nasser's videos on YouTube and to his courses on Udemy.
