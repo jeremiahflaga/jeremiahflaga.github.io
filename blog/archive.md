@@ -33,9 +33,7 @@ sidebar_content: <iframe style="border-radius:12px" src="https://open.spotify.co
                 <li>
                     <small class="post-date">{{ post.date | date_to_string }} » </small>
                     <span>
-                        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-                            {{ post.title }}
-                        </a>
+                        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
                     </span>
                     <small class="badge badge-info">
                         {% assign category = post.categories[0] %}
