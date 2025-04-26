@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Satirical 'Wycliffe-Purvey Only' movement, 'Tyndale Only' movement, 'ESV Only' movement, etc."
 excerpt: ""
 date: 2023-09-30 12:00:00 AM UTC
@@ -13,7 +14,7 @@ tags:
   - Tyndale Only
   - ESV Only
   - Satire
-published: false
+published: true
 ---
 
 <!-- 2023-08-31 10:00 PM PHT: started -->
@@ -29,8 +30,8 @@ I think that experience led him to be very skeptical of many things commonly acc
 I too have experienced many disillusionments growing up:
 
 1. KJV Onlyism (ref. [How we got our Bible: The KJV Only Movement](https://crossexamined.org/how-we-got-our-bible-the-kjv-only-movement/))
-2. sacred/secular distinction - (ref. ["Nothing is secular."]https://crossexamined.org/morality-and-politics/))
-3. the YEC interpretation is the only Biblical interpretation of Genesis (ref. [What Ken Ham Misses About Creation](https://www.youtube.com/watch?v=FL9t3O-1E7w&t=1171s))
+2. sacred/secular distinction - (ref. ["Nothing is secular."](https://crossexamined.org/morality-and-politics/))
+3. the YEC interpretation is the only Biblical interpretation of Genesis 1-11 (ref. [What Ken Ham Misses About Creation](https://www.youtube.com/watch?v=FL9t3O-1E7w&t=1171s))
 4. Baptists have always existed since the early years of Christianity (some even teach that Jesus was a Baptist!) - (ref. [Mopping Up the Trail of Blood](https://web.archive.org/web/20230108004806/https://covenantlegacy.com/mopping-up-the-trail-of-blood-part-1/))
 5. cigarrette smokers and alcohol consumers are some of the most evil people in the world - (ref. [Spurgeon Smoked Cigars and Drank Alcoholic Beverages](https://recognizingchrist.com/2016/05/31/he-smoked-cigars-and-drank-alcoholic-beverages/))
 6. etc.
@@ -77,13 +78,13 @@ But Jesus told Thomas, "Blessed are those who have not seen yet believe!", you m
 
 Well, Jesus did not say "Blessed are those who have no evidence yet believe". As John Lennox is saying in his debates, "Seeing is only one way to get an evidence".
 
+(to be revised and to be continued...)
+
+<!-- 
+
 You might say, "Well, I have evidences to show that the KJV is the only perfect word of God. And that all the other translations are corrupted"
 
 What I can say in response to that is I have evidences that shows that the WPV, or the Wycliffe-Purvey Version of the Bible, is the only perfect word of God, and all the other translations are corrupted.
-
-If you think faith means blindly accepting something to be true even in the absence of evidence, then you are like those materialist athiests who say "God does not exist" even though they have not been to every corner of the universe since the beginning of time until now to see if God was anywhere or not. (Please note that I'm not saying that all athiests think like that.)
-
-
 
 ======================================================================
 
@@ -117,7 +118,7 @@ Not the best one to do this because I'm not that very knowledgeable. I just have
 
 I'm hoping that someone more knowledgeable will ...
 
-<!-- Note: This is satire. This is not an attack on the KJV Bible. This is also not an attack on the Wycliffe-Purvey Bible -->
+Note: This is satire. This is not an attack on the KJV Bible. This is also not an attack on the Wycliffe-Purvey Bible
 
 
 
@@ -185,9 +186,10 @@ In my native tongue I can still understand a sentence or phrase even when words 
 
 
 
-
-
 --------
 
 The younger generations might face problems which will dumbfound Christians trained/raised in KJV-onlyism.
 
+
+
+-->

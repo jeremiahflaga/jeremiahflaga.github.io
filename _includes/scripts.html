@@ -4,6 +4,20 @@
 
 <script src="{{"/assets/scripts.js" | relative_url }}"></script>
 
+{% if page.enable_mermaid_diagram %}
+  <!-- from Embed Mermaid in Jekyll without plugin: https://jackgruber.github.io/2021-05-09-Embed-Mermaid-in-Jekyll-without-plugin/ -->
+  <script src="https://unpkg.com/mermaid@11.6.0/dist/mermaid.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      mermaid.initialize({
+        startOnLoad:true,
+        theme: "default",
+      });
+      window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+    });
+  </script>
+{% endif %}
+
 {% if page.url contains 'contact' %}
   <!-- Form Validation -->
   <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/jqBootstrapValidation.js" | relative_url }}"></script>

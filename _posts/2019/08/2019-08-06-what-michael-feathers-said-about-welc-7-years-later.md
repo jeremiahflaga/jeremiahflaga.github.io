@@ -4,7 +4,8 @@ title: 'Is Michael Feathers backing out from his "Code without tests is bad code
 categories: [Thoughts, Programming]
 tags: [Michael Feathers]
 date: 2019-08-06 12:40:00 PM UTC
-published: false
+dateLastUpdated: 2023-10-09 12:00:00 AM UTC
+published: true
 ---
 
 <!-- Aug 6, 2019 08:40:00 PM Philippine Time -->
@@ -18,6 +19,12 @@ published: false
 <!-- 
 The book ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) of Michael Feathers was published in 2005. I bought a copy last 2017 because it is one of the books recommended by many respected software developers; and two out of three of the sofware projects I was involved in by that time
  -->
+
+**Update, October 9, 2023:**
+
+There is no upcoming book named Brutal Refactoring. See https://www.infoq.com/podcasts/working-effectively-legacy-code/
+
+---
 
 Story time...
 
