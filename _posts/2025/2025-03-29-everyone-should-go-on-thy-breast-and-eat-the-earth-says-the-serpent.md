@@ -12,6 +12,8 @@ dateLastUpdated:
 categories:
   - Wycliffe-Only Movement
 tags: 
+  - KJV Only
+  - King James Only
   - Satire
 published: true
 ---
