@@ -83,6 +83,7 @@ File tree stucture (from https://www.obeythetestinggoat.com/book/chapter_unit_te
     └── wsgi.py
 
 
+==============================
 
 Can I define a class name on paragraph using Markdown? (https://stackoverflow.com/a/49697482)
 (https://kramdown.gettalong.org/syntax.html#attribute-list-definitions)
@@ -91,6 +92,20 @@ If your flavour of markdown is kramdown, then you can set css class like this:
 {:.nameofclass .anotherClass}
 paragraph is here
 
+----------
+Markdown add style (https://stackoverflow.com/a/56822117/1451757)
+
+{: style="margin-top:-12px;" }
+paragraph here
+
+----------
+
+force markdown to start ol (ordered list) from another number (https://stackoverflow.com/a/48612359/1451757)
+
+{: start="2"}
+2. Second
+
+==============================
 
 <div> with markdown
 In many (most?) varietals of Markdown, you can put <div markdown="1"> on the element and it will allow Markdown inside of it.

@@ -8,7 +8,7 @@ share-img:
 tags:
 author: 
 date: 2024-09-21 12:00:00 AM UTC
-dateLastUpdated: 2025-03-25 12:00:00 AM UTC
+dateLastUpdated: 2025-05-11 12:00:00 AM UTC
 categories:
   - Wycliffe-Only Movement
 tags: 
@@ -54,6 +54,8 @@ He added that during his stay in prison, he is going to read the whole of Jeremi
 
 One reporter asked, "Is this the way they are solving problems in far away places?"
 
-"Yes, of course. I've been to many far away places, and they are solving problems this very same way. The Philippines, as an archipelago, has many far away places within our very own borders. Therefore we should be solving problems the same way far away places are solving them."
+"Yes, of course. I've been to many far away places, and they are solving problems this very same way. The Philippines, as an archipelago, has many far away places within our very own borders. Therefore we should be solving problems the same way far away places are solving them. We realy really have been making bad decisions lately because we have been consulting modern versions of the Bible instead of the original one. We must go back to the original English Bible to minimize making mistakes."
+
+Quiboloy overheard her. "We both have come to the same realization. We should be friends, she and I."
 
 [/satire]

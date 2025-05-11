@@ -22,7 +22,7 @@ published: true
 
 I can't stop myself from chuckling when I first saw that video, because the men singing in there don't look like they are gays, but they are saying that they "are so gay".
 
-But because I'm not a robot, I know exactly why they are singing "we are so gay" even though they're obviously not gays. And I believe you know the reason too. --- It's because there are at least two _different_ definitions of the word "gay" (not necessarily mutually exclusive definitions, even though it's possible for the same work to have two mutually exclusive definitions).
+But because I'm not a robot, I know exactly why they are singing "we are so gay" even though they're obviously not gays. And I believe you know the reason too. --- It's because there are at least two _different_ definitions of the word "gay" (not necessarily mutually exclusive definitions, even though it's possible for the same word to have two mutually exclusive definitions).
 
 And if we look in a [present-day dictionary](https://www.merriam-webster.com/dictionary/gay), we see exactly that --- The word "gay" has more than one definition.
 

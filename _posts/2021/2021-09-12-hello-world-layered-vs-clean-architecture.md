@@ -39,7 +39,7 @@ And that's what this article is about. It just contains a bird's eye view diagra
 
 <img width="300" class="float-left img-fluid" src="/images/2021/2021-05-22-hello-world-layered-architecture-code-with-diagram.png" alt="">
 
-<img width="400" class="float-right img-fluid" src="/images/2021/2021-05-22-hello-world-clean-architecture-code-with-diagram.png" alt="">
+<img width="380" class="float-right img-fluid" src="/images/2021/2021-05-22-hello-world-clean-architecture-code-with-diagram.png" alt="">
 
 <div class="clearfix"></div>
 
