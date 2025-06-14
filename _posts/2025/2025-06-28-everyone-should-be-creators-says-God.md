@@ -15,7 +15,7 @@ tags:
   - KJV Only
   - King James Only
   - Satire
-published: false
+published: true
 ---
 
 {: .alert .alert-warning }
@@ -62,9 +62,23 @@ God called to them to correct their thinking.
 <br />
 "My bad", Eve said. "Everyone should be a mother and a biology enthusiast (at the least). I disagree that only biologist can define what a woman is. I don't have time to take a four year biology course. Biology enthusiast can also define woman."
 <br />
-"Oooops", the serpent realized his mistake. "Everyone should become a physicist who believe in a multiverse. That will make it so that there is an infinite number of earths we can make tracks on and eat."
+"Oooops", the serpent realized his mistake. "Everyone should become a physicist who believe in a multiverse. That will make it so that there is an infinite number of earths we can make tracks on and eat. Take note that I said physicist, not just physics enthusiasts. Because how can a multiverse be true if only physics enthusiasts believe in it."
 
 :man_facepalming:
+<br />
+"If everyone should become farmers and blacksmiths, who would create machines which helps farmers to scale?" 
+<br />
+"If everyone should become mothers and biology enthusiasts, who would create hospitals where mothers give birth to their babies. Who who make buildings where biology enthusiasts do their work?" 
+<br />
+"If everyone should go on thy ground and eat the earth and become physicists who believe in a multiverse, who would create rockets and spaceships on which we travel to other universes?" 
+
+"The engineers!", Elon Musk replied. "Whew! At least I have one of the required professions. I'll buy more land, and become a farmer next."
+<br />
+"I am none of those", said Jose Rizal. "More work for me to do."
+<br />
+"Who then would write the [Wycliffe Bible](https://www.ibiblio.org/tnoble/)?", questioned John Wycliffe. "That's the book where you got your initial statements about what everyone should be doing."
+
+"Very very good point!" :+1: :+1: :+1:
 
 </div>
 

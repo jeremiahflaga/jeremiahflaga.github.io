@@ -25,15 +25,15 @@ For context, please see the introduction for this series: ["Wycliffe-Only Moveme
 
 My name is Peirre Pah. The year is 1611 in Neerland. 
 
-A newer version of the Bible was just published. It is expected to eventually replace our dearly beloved old Wycliffe Bible 1382-1395.
+A newer version of the Bible was just published. It is expected to eventually replace our dearly beloved old Wycliffe Bible 1382-1390s.
 
-Should we allow our old Wycliffe Bible 1382-1395 to be replaced with modern versions?
+Should we allow our old Wycliffe Bible 1382-1390s to be replaced with modern versions?
 
 While studying these modern Bibles I noticed that they are mocking the king!
 
 Why do the modern bibles mock the king?
 
-Should we allow our old Wycliffe Bible 1382-1395 to be replaced with newer versions which mock the king?
+Should we allow our old Wycliffe Bible 1382-1390s to be replaced with newer versions which mock the king?
 
 They are praising the king in Ecclesiastes chapter 8 verse 4:
 

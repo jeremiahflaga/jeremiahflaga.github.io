@@ -45,7 +45,7 @@ A man has been telling Adam that if he does not serve God, bad things will happe
 
 > Therefore the Lord God took man, and set him in (the) paradise of liking, that he should work and keep it. (And so the Lord God took the man, and put him in the Garden of Eden, so that he would work it, and care for it.)
 >
-> (Wycliffe Bible 1382-1395)
+> (Wycliffe Bible 1382-1390s)
 
 <!-- Genesis 2:15 -->
 
@@ -58,7 +58,7 @@ A man has been telling Adam that if he does not serve God, bad things will happe
 >
 > Soothly God said to Adam, For thou heardest the voice of thy wife, and hast eaten of the tree, of which I commanded to thee that thou shouldest not eat, the earth shall be cursed in thy work, that is, for thy sin; in travails thou shalt eat thereof in all the days of thy life; (And God said to Adam, For thou heardest thy wife's voice, and hast eaten of the tree, of which I commanded to thee that thou shouldest not eat, the ground shall be cursed on account of thee, that is, because of thy sin; only after much travail, or much labour, shalt thou get food from it all the days of thy life;)
 >
-> (Wycliffe Bible 1382-1395)
+> (Wycliffe Bible 1382-1390s)
 
 "That's a hard read. Let's find something that makes it easy-to-read. Let's consult a commentary --- the one named ERV."
 

@@ -52,17 +52,17 @@ A wise man once said<sup>2</sup>:
 >
 > Instead, you counter bad ideas with better ideas.
 
-What better idea is there to counter the King James Only movement than to start a new but better movement, called "The Wycliffe Only Movement".
+What better idea is there to counter the King James Only movement than to start a new but better movement, called "The [Wycliffe Only](https://www.ibiblio.org/tnoble/) Movement".
 
 Why is it better?
 
  - Wycliffe is centuries older than King James, and so is closer to the originals.
  - John Wycliffe was persecuted; so he was part of the true church<sup>3</sup>.
- - Wycliffe 1382-1395 uses more archaic words, phrases, and sentence construction; so it sounds more reverent than KJV 1611.
+ - Wycliffe 1382-1390s uses more archaic words, phrases, and sentence construction; so it sounds more reverent than KJV 1611.
  - Wycliffe, unlike modern translations, does not mock the king.
  - Wycliffe, unlike modern translations, does not mock pastors.
- <!-- - Wycliffe 1382-1395, unlike all the other modern translations, does not say that John Wycliffe and Jesus are the same person. -->
- - Wycliffe 1382-1395 was published before the printing press was invented. Everything was written by hand, so it truly was the "written word of God". All the modern translations are "printed word of God", a phrase which does not sound very authoritative.
+ <!-- - Wycliffe 1382-1390s, unlike all the other modern translations, does not say that John Wycliffe and Jesus are the same person. -->
+ - Wycliffe 1382-1390s was published before the printing press was invented. Everything was written by hand, so it truly was the "written word of God". All the modern translations are "printed word of God", a phrase which does not sound very authoritative.
  - ... and much more
 
 ---

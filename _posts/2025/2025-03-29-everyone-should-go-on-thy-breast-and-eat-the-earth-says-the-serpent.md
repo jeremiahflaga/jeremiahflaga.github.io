@@ -41,7 +41,7 @@ A man has been telling the serpent that if he does not do what God wants bad thi
 >
 > And the Lord God said to the serpent, For thou didest this, thou shalt be cursed among all [the] living things, and unreasonable beasts of [the] earth; thou shalt go on thy breast, and thou shalt eat earth in all the days of thy life.
 >
-> (Wycliffe Bible 1382-1395)
+> (Wycliffe Bible 1382-1390s)
 
 <!-- Genesis 3:14 -->
 

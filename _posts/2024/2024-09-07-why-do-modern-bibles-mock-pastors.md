@@ -25,9 +25,9 @@ For context, please see the introduction for this series: ["Wycliffe-Only Moveme
 
 My name is Peirre Pah. The year is 1611 in Neerland. 
 
-A newer version of the Bible was just published. It is expected to eventually replace our dearly beloved old Wycliffe Bible 1382-1395.
+A newer version of the Bible was just published. It is expected to eventually replace our dearly beloved old Wycliffe Bible 1382-1390s.
 
-Should we allow our old Wycliffe Bible 1382-1395 to be replaced with modern versions?
+Should we allow our old Wycliffe Bible 1382-1390s to be replaced with modern versions?
 
 While studying these modern Bibles I noticed that they are mocking pastors!
 
@@ -45,7 +45,7 @@ While studying these modern Bibles I noticed that they are mocking pastors!
 
 Why do the modern bibles mock pastors?
 
-Should we allow our old Wycliffe Bible 1382-1395 to be replaced with newer versions which mock pastors?
+Should we allow our old Wycliffe Bible 1382-1390s to be replaced with newer versions which mock pastors?
 
 They are praising pastors in Jeremiah chapter 3 verse 15:
 

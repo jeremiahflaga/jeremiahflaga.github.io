@@ -45,7 +45,7 @@ A man has been telling Eve that if she does not serve God, bad things will happe
 
 > Also God said to the woman, I shall multiply thy wretchednesses and thy conceivings; in sorrow thou shalt bear thy children; and thou shalt be under (the) power of thine husband, and he shall be lord of thee.
 >
-> (Wycliffe Bible 1382-1395)
+> (Wycliffe Bible 1382-1390s)
 
 
 "Yes. But please note that recent versions of the Bible have actually weaken, or make blurry, the meaning of that verse, by replacing the phrase _'thou shalt be under (the) power of thine husband'_ with _'thy desire shall be to thy husband'_. These modern versions have been influenced by feminist ideas."

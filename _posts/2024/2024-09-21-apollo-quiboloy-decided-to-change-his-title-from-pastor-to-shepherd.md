@@ -23,7 +23,7 @@ For context, please see the introduction for this series: ["Wycliffe-Only Moveme
 
 ---
 
-Apollo Quiboloy recently discovered that the oldest and original English bible --- the Wycliffe Bible 1382-1395 --- says that God has given to his people "shepherds", not "pastors":
+Apollo Quiboloy recently discovered that the oldest and original English bible --- the Wycliffe Bible 1382-1390s --- says that God has given to his people "shepherds", not "pastors":
 
 > Jeremiah ch 3 v 15
 >
