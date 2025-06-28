@@ -95,3 +95,5 @@ Footnotes:
 [Everyone should be a mother, says Eve](/2024/11/02/everyone-should-be-a-mother-says-eve)
 
 [Everyone should go on thy breast and eat the earth, says the serpent](/2025/03/29/everyone-should-go-on-thy-breast-and-eat-the-earth-says-the-serpent)
+
+[Everyone should be creators, says God](/2025/06/28/everyone-should-be-creators-says-God)
