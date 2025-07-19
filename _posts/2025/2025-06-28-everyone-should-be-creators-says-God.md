@@ -8,7 +8,7 @@ share-img:
 tags:
 author: 
 date: 2025-06-28 12:00:00 PM UTC
-dateLastUpdated:
+dateLastUpdated: 2025-07-19 12:00:00 PM UTC
 categories:
   - Wycliffe-Only Movement
 tags: 
@@ -76,11 +76,9 @@ God called to them to correct their thinking.
 <br />
 "I am none of the above, but a people have chosen me to be their national hero", protested Jose Rizal.
 <br />
-"I wrote the [Wycliffe Bible](https://www.ibiblio.org/tnoble/), the book from which Adam, Eve, and the serpent based their initial claims.", said John Wycliffe. "Does that mean that everyone should be a writer or translator too?"
+"I wrote the [Wycliffe Bible](https://www.ibiblio.org/tnoble/), the book from which Adam, Eve, and the serpent based their initial claims.", said John Wycliffe. "If there were no writers and translators and scribes there would be no Wycliffe Bible.Does that mean that everyone should be a writer or translator too?"
 
 "Very very good point!" :+1: :+1: :+1:
-
-"I'm a writer too!", exclaimed Jose Rizal.
 
 </div>
 

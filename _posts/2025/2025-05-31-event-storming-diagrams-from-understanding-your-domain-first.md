@@ -3,7 +3,7 @@ layout: post
 title: 'Event Storming diagrams from the free ebook "Understand Your Domain First" by Maciej Jedrzejewski'
 excerpt: 
 date: 2025-05-31 12:00:00 PM UTC
-dateLastUpdated:
+dateLastUpdated: 2025-07-19 12:00:00 PM UTC
 categories:
   - Programming
 tags: 
@@ -67,4 +67,6 @@ thinking.
 
 The rest of the guides you though how to produce software effectively.
 
-I have not yet finished the book. I have read up to chapter 6 only. But I think this is one of the best book I have read on software development. I'm planning to re-read it from the start to finish before the year ends.
+I have not yet finished the book. I have read up to chapter 6 only. I decided to skip chapter 7 during the first reading because it talks about [evolutionary architecture and its corresponding repository on GitHub](https://github.com/evolutionary-architecture/), and I have already done an initial investigation of that repository before the book was published. 
+
+I think this is one of the best books I have read on software development. It's unique because it talks about the whole cycle in software development --- from planning to maintenance. I'm hoping to re-read it from the start to finish before the year ends.
