@@ -5,6 +5,7 @@ subtitle: Code duplication is not always evil
 categories: [Programming]
 tags: [Programming]
 date: 2021-10-01 12:00:00 AM UTC
+dateLastUpdated: 2025-08-23 12:00:00 PM UTC
 pinned: true
 ---
 
@@ -18,7 +19,7 @@ pinned: true
 -----
  -->
 
-The [DRY principle](/2021/09/01/guidelines-and-resources-on-how-to-write-clean-code) or guideline is one of the easiest of the coding guidelines to understand and remember. Maybe that is the reason why we easily conclude that there is duplication when we see code which look the same. And it seems to me that we have developed this instinct of wanting to remove duplication when we see them (or maybe it's just me :smile: ).
+The [DRY principle](/2021/09/01/guidelines-and-resources-on-writing-clean-code) or guideline is one of the easiest of the coding guidelines to understand and remember. Maybe that is the reason why we easily conclude that there is duplication when we see code which look the same. And it seems to me that we have developed this instinct of wanting to remove duplication when we see them (or maybe it's just me :smile: ).
 
 But there are also times when we are hesitant to de-duplicate code which look the same, because it seems unnatural to do so in those cases --- we want to keep the duplication, because we can somewhat foresee that if we de-duplicate this particular code it might make our codebase messier and more difficult to maintain later.
 
@@ -34,9 +35,19 @@ We can see an example of that [here](https://www.brainstobytes.com/the-single-re
 
 How do we decide which of the two principles to break when we are in this kind of dilemma?
 
+<div class="message message-compressed float-right" markdown="1">
+
+Update: DRY does not mean "don't repeat code". 
+
+See [this LinkedIn post](https://www.linkedin.com/posts/vaughnvernon_dry-is-often-confused-as-dont-repeat-code-activity-7355097010053525506-yN32/) by Vaughn Vernon.
+
+And the article ["AHA Programming"](https://kentcdodds.com/blog/aha-programming) by Kent C. Dodds.
+
+</div>
+
 First, let's go back to the definitions of DRY and SRP.
 
-[DRY](/2021/09/01/guidelines-and-resources-on-how-to-write-clean-code) is pretty strightforward. It means to remove duplicates.
+[DRY](/2021/09/01/guidelines-and-resources-on-writing-clean-code) is pretty strightforward. It means to remove duplicates.
 
 SRP is more complicated, so let's read again its [definition from Uncle Bob Martin](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 

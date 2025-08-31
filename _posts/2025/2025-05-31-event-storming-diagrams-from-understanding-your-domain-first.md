@@ -3,7 +3,7 @@ layout: post
 title: 'Event Storming diagrams from the free ebook "Understand Your Domain First" by Maciej Jedrzejewski'
 excerpt: 
 date: 2025-05-31 12:00:00 PM UTC
-dateLastUpdated: 2025-07-19 12:00:00 PM UTC
+dateLastUpdated: 2025-07-26 12:00:00 PM UTC
 categories:
   - Programming
 tags: 
@@ -40,7 +40,7 @@ Here are the diagrams I produced:
 
 -----
 
-"MJ" has also written a book titled ["Master Software Architecture"](https://mastersoftwarearchitecturebook.com/).
+"MJ" has also written a book titled ["Master Software Architecture"](https://mastersoftwarearchitecturebook.com/). He has given free copies months ago, and I was one of the recipients.
 
 In the Preface of that book, he said something that many software engineers can relate to:
 
@@ -65,8 +65,9 @@ thinking.
 > 
 > This contradicts pragmatism.
 
-The rest of the guides you though how to produce software effectively.
+The rest of the book guides you though how to produce software effectively.
 
-I have not yet finished the book. I have read up to chapter 6 only. I decided to skip chapter 7 during the first reading because it talks about [evolutionary architecture and its corresponding repository on GitHub](https://github.com/evolutionary-architecture/), and I have already done an initial investigation of that repository before the book was published. 
+I have not yet finished the book. I have read up to chapter 6 only. I decided to skip chapter 7 during the first reading because it talks about evolutionary architecture, and I have already done an initial reading about it in a [GitHub repository named "Evolutionary Architecture by Example"](https://github.com/evolutionary-architecture/) authored by him and Kamil Baczek.
+
 
 I think this is one of the best books I have read on software development. It's unique because it talks about the whole cycle in software development --- from planning to maintenance. I'm hoping to re-read it from the start to finish before the year ends.

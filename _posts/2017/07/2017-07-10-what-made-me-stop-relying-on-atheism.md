@@ -4,6 +4,7 @@ title: What made me to stop relying on atheism to save me from the God of Christ
 categories: [Thoughts]
 tags: [Atheism, Christianity, Greg Bahnsen, Gordon Stein, Agnosticism, Problem of Evil]
 date: 2017-07-10 03:00:00 PM UTC
+dateLastUpdated: 2025-08-23 12:00:00 PM UTC
 published: true
 ---
 
@@ -204,7 +205,7 @@ their mind.
 
 Maybe agnosticism makes much more sense??
 
-Maybe not... The things we observe and experience in reality makes sense in the Christian worldview. So there is no need to find another one. :grin:
+Maybe not... The things we observe and experience in reality makes sense in the Christian worldview. So maybe there is no need to find another worldview?? :grin: But of course that does not mean that we stop from asking questions.
 
 <!--And, besides, agnosticism says something like "we cannot know anything for sure", right? So in an agnostic universe, there is a possiblitily that the statement _"we **cannot** know anything for sure"_ is **false**. So there is this possiblity that we **can** know some things for sure!! Now, what if the Christian worldview is one of those things that we can know for sure to be **true**?-->
 
@@ -216,7 +217,7 @@ Maybe not... The things we observe and experience in reality makes sense in the 
 
 Another important point from that debate is Dr. Bahnsen's standard on what constitute an _explanation_:
 
-[**Update (July 20, 2017):** I have decided to make a separate post for this **_"What is an explanation?"_** part. Please go [here](http://127.0.0.1:4000/2017/07/20/what-is-an-explanation/) to read it.]
+[**Update, July 20, 2017:** I have decided to move to a separate post this **_"What is an explanation?"_** part. Please go [here](/2017/07/20/what-is-an-explanation/) to read it.]
 
 <!--
 (If this **_explanation_** thing is already formalized somewhere, please point to me where :smile:)
