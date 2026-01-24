@@ -4,7 +4,7 @@ title: 'Rise of the Messiah class certificate'
 excerpt: 
 date: 2026-01-11 04:45:00 PM UTC
 dateLastUpdated:
-sidebar_content: ''
+sidebar_content: <small><small><center><em>"Where I Belong" by Switchfoot</em></center></small></small> <iframe width="100%" src="https://www.youtube.com/embed/s3-7fjhYm2g?si=-O3lMyA3-f2EsbyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 categories:
   - Miscellaneous
 tags: 
